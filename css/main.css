@@ -1,0 +1,57 @@
+header {
+   background: url('../images/background1.png') no-repeat center center/cover;
+}
+#navbarSupportedContent li a{
+    color: #fff;
+}
+.img-fluid{
+    width: 100%;  
+}
+
+/*section1*/
+
+.section1{
+    padding: 60px;
+}
+
+.crypto {
+    color: #e28641;
+}
+.custom-text {
+    color: #00bfff;
+}
+.img3{
+    width: 80%;
+}
+
+/*sectin2*/
+
+.section2{
+    background: #edecec;
+}
+.hed1{
+    color: #dc6f3d;
+}
+
+/*sectin3*/
+
+.section3, .section5{
+    background: linear-gradient(to right, #6A00FF, #D900FF);
+}
+.img5{
+    width: 100%;
+}
+.img7{
+    width: 100%;
+}
+
+/*sectin4*/
+
+.img6{
+    width: 100%;
+}
+
+/*sectin10*/
+
+
+
